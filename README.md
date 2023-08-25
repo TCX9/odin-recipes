@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project as assigned by The Odin Project. It is a recipe website to practice the basic HTML subjects that have been taught so far. I will update this later to outline the skills that I have practiced throughout the project. I would do this now but I am unsure exactly what skills I will be using.
